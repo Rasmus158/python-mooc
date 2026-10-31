@@ -29,6 +29,5 @@ def kolmio(koko):
         viiva(kerros, "#")
         kerros += 1
 
-# funktiota kannattaa testata kutsumalla sitä täällä seuraavasti
 if __name__ == "__main__":
     kolmio(5)
