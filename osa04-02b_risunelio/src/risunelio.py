@@ -19,4 +19,4 @@ def risunelio(koko):
 
 # funktiota kannattaa testata kutsumalla sitä täällä seuraavasti
 if __name__ == "__main__":
-    risunelio(5)
+    risunelio(2)

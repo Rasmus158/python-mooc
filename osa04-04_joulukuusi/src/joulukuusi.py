@@ -15,5 +15,5 @@ def joulukuusi(luku):
     print((luku-2)*" ",(luku-(luku-1))*"*")
     
 if __name__ == "__main__":
-    joulukuusi(5)
+    joulukuusi(2)
 
