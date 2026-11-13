@@ -2,14 +2,19 @@
 
 
 def pisimmat(lista):
-    suurin = lista[0]
+    suurin = []
+    oikeat = []
+    pituudet = []
     for sana in lista:
-        if len(sana) > len(suurin):
-            suurin = sana
-        if len(sana) == (suurin):
-            suurin.append(sana)
-     
-    return suurin
+        pituudet.append(len(sana))
+    pituudet.sort()
+    pisin = pituudet[-1]
+
+    for sana in lista:
+        if len(sana) == pisin:
+            oikeat.append(sana)
+ 
+    return oikeat  
 
 
 
