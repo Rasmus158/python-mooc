@@ -151,3 +151,111 @@ checksum = "0edf46cb1ab33d5a9e14077121ab5fab"
 [exercises.osa04-26_arvosanatilasto]
 id = 306077
 checksum = "9035805d3a0d6e26655300d3a35efdbf"
+
+[exercises.osa05-01_alkoiden_maara]
+id = 306163
+checksum = "4363e39fddd554c4b752c0574860adce"
+
+[exercises.osa05-01a_pisin_merkkijono]
+id = 306177
+checksum = "2a5254dc7f90864102cf07aac85d8c8a"
+
+[exercises.osa05-02_go]
+id = 306168
+checksum = "a929e1234348a4b8e3a527d5715482a1"
+
+[exercises.osa05-03_sudoku_osa1]
+id = 306179
+checksum = "56cb283a0fab168f0bcf6026d075601f"
+
+[exercises.osa05-04_sudoku_osa2]
+id = 306186
+checksum = "eeec03e6a8c2ccfcf60fcc93210f89a6"
+
+[exercises.osa05-05_sudoku_osa3]
+id = 306176
+checksum = "9b0e88ff8ecf86c9d421037f1f6edb37"
+
+[exercises.osa05-06_sudoku_osa4]
+id = 306181
+checksum = "a55fddb1f6c5ce993f282f1641a842e8"
+
+[exercises.osa05-06a_alkiot_tuplana]
+id = 306175
+checksum = "890355b767c202b5bdbe128eab1464cf"
+
+[exercises.osa05-06b_poista_pienin]
+id = 306184
+checksum = "7531cdd617abad2d3914b13c6f294a72"
+
+[exercises.osa05-07_sudoku_osa5]
+id = 306161
+checksum = "43b077f9577958c4d5e6c618d0cf101a"
+
+[exercises.osa05-08_sudoku_osa6]
+id = 306166
+checksum = "028dd0136f85f0103e06ec70662d5f65"
+
+[exercises.osa05-09_ristinolla]
+id = 306180
+checksum = "e3c42a7f553e59f9b60decb48dbc3f89"
+
+[exercises.osa05-10_matriisin_kaanto]
+id = 306172
+checksum = "2317e7fa5afb8e477369353d602ddc65"
+
+[exercises.osa05-10b_kertaa_kymmenen]
+id = 306183
+checksum = "472235a31bc23f35b95e7a5fe55d5094"
+
+[exercises.osa05-11_kertomat]
+id = 306170
+checksum = "d1adf8dbbe79d9ba48de51ade119c943"
+
+[exercises.osa05-12_histogrammi]
+id = 306162
+checksum = "f96e3b1281133fcb8cf05e0b7040d786"
+
+[exercises.osa05-13_puhelinluettelo_versio1]
+id = 306185
+checksum = "d6b3a810724bf81b4415bf8036aff78e"
+
+[exercises.osa05-14_puhelinluettelo_versio2]
+id = 306167
+checksum = "17ba6006838ce532c87d3e51466d02e6"
+
+[exercises.osa05-15_sanakirjan_kaanto]
+id = 306164
+checksum = "9bb399d52940a56ab04dd3ba1dd63d7c"
+
+[exercises.osa05-16_luvut_sanoina]
+id = 306182
+checksum = "a0bed43cf0eb98d8b5bfea02948b66b3"
+
+[exercises.osa05-17_elokuvarekisteri]
+id = 306171
+checksum = "d7db8ff0ed86168520f9cc994b1c5bf5"
+
+[exercises.osa05-17b_etsi_elokuvat]
+id = 306173
+checksum = "2200759b7b9d2bc216cbb7cecf82f5b6"
+
+[exercises.osa05-17c_muodosta_tuple]
+id = 306178
+checksum = "5ce518ccb659f9407043927ab2a895fa"
+
+[exercises.osa05-18_vanhin_henkiloista]
+id = 306187
+checksum = "08d128f0ab51f6a00d96050a2947a3c5"
+
+[exercises.osa05-19_vanhemmat_henkilot]
+id = 306169
+checksum = "658a13ec9355422d0ecdf9436ff84d08"
+
+[exercises.osa05-20_opiskelijarekisteri]
+id = 306165
+checksum = "b6999d6cb6d3a2e9060f1ddc0b8093d7"
+
+[exercises.osa05-21_kirjainruudukko]
+id = 306174
+checksum = "1e6534650c0ed82fbd9531a79341c45f"
