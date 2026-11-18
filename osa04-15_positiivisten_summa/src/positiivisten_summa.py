@@ -2,6 +2,7 @@
 
 
 
+<<<<<<< HEAD
 def positiivisten_summa (lista):
     positiivisten_summa = []
     for luku in lista:
@@ -21,3 +22,6 @@ if __name__ == "__main__":
     print("vastaus", vastaus)
 
     
+=======
+
+>>>>>>> ea751d1917692638aefac71bf0057d250ef1ebfb
