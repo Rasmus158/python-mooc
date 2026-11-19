@@ -21,6 +21,6 @@ if __name__=="__main__":
     [0, 0, 7, 8, 0, 3, 9, 0, 0],
     [0, 0, 1, 0, 0, 0, 0, 0, 3],
     [3, 0, 0, 0, 0, 0, 0, 0, 2]
-    ]d
+    ]
     print(rivi_oikein(sudoku, 0))
     print(rivi_oikein(sudoku, 1))
