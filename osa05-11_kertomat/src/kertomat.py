@@ -1,14 +1,5 @@
   
 
-
-
-
-
-
-
-
-
-
 def kertomat(n: int):
     uusi_lista = {}
     luku = 1

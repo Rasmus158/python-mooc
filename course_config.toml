@@ -259,3 +259,79 @@ checksum = "b6999d6cb6d3a2e9060f1ddc0b8093d7"
 [exercises.osa05-21_kirjainruudukko]
 id = 306174
 checksum = "1e6534650c0ed82fbd9531a79341c45f"
+
+[exercises.osa06-01_suurin_luku]
+id = 306012
+checksum = "be8fc3c2ca02208f48e14086eccba111"
+
+[exercises.osa06-02_hedelmakauppa]
+id = 306019
+checksum = "932053cf6b8e49ed4b94130523d9c83d"
+
+[exercises.osa06-03_matriisi]
+id = 306011
+checksum = "1c602b06b8db805abc3f27094ab68d9e"
+
+[exercises.osa06-04_kurssin_tulokset_osa1]
+id = 306005
+checksum = "d521af7cd20fa99a5b9d4d96cf4d9250"
+
+[exercises.osa06-05_kurssin_tulokset_osa2]
+id = 306016
+checksum = "ee802af948907c643ffd4161fd7dd3cb"
+
+[exercises.osa06-06_kurssin_tulokset_osa3]
+id = 306010
+checksum = "407165e4d476bfcab5a31f194c4e2e9e"
+
+[exercises.osa06-07_spellchecker]
+id = 306020
+checksum = "f2b4ca24810ef38b2857446bf7ec7d37"
+
+[exercises.osa06-08_reseptihaku]
+id = 306006
+checksum = "65e5174eccfe3d550e2e9455da592158"
+
+[exercises.osa06-09_kaupunkipyorat]
+id = 306015
+checksum = "0c502f290fcbd3f991bfbc2157768aad"
+
+[exercises.osa06-10_omistuskirjoitus]
+id = 306008
+checksum = "87a17090e6dbedbcea7aaa2319652733"
+
+[exercises.osa06-11_paivakirja]
+id = 306004
+checksum = "5a78331841ee83941e5a87241a1bec5c"
+
+[exercises.osa06-12_aineiston_suodatus]
+id = 306014
+checksum = "a613f6814a49f97ff22b60f9ebe0d2fe"
+
+[exercises.osa06-13_henkilot_talteen]
+id = 306018
+checksum = "53b09860545cdd4648f10c12a7134c10"
+
+[exercises.osa06-14_kurssin_tulokset_osa4]
+id = 306009
+checksum = "9141c937d54c99160d4d366ea8d6c92d"
+
+[exercises.osa06-15_sanahaku]
+id = 306013
+checksum = "997373fbd7a0ce6e4d6219b142ac51ed"
+
+[exercises.osa06-16_muistava_sanakirja]
+id = 306007
+checksum = "03fbf1b2216afac20bc51519ebc6e3e7"
+
+[exercises.osa06-17_syotteen_luku]
+id = 306021
+checksum = "2b7b525a70e6973ee991a52b1ecb1492"
+
+[exercises.osa06-18_parametrien_validointi]
+id = 306017
+checksum = "b8bdcee3927933e8955479392bcff31a"
+
+[exercises.osa06-19_virheelliset_lottonumerot]
+id = 306003
+checksum = "f1190a359da3441c93c1405a03a03bc8"
