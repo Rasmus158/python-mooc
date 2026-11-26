@@ -1,4 +1,4 @@
-Tietokoneen toiminnan perusteet, 2 opintopistett‰
+Tietokoneen toiminnan perusteet, 2 opintopistett√§
 =================================================
 nimi                          teht_lkm  teht_pist koe_pist  yht_pist  arvosana
 pekka pelokas                 25        6         6         12        0         
