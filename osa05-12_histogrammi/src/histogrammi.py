@@ -12,7 +12,7 @@
 
 
 
-def histogrammi(sana: str):
+def histogrammi(sana: str, ekaluku: int, tokaluku: int):
     vastaus = {}
     for kirjain in sana:
         if kirjain in vastaus:
